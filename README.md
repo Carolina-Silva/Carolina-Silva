@@ -1,8 +1,8 @@
 ## Olá! Eu sou a Carolina Silva 
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/Carolina-Silva">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Carolina-Silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolina-Silva&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carolina-Silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolina-Silva&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -18,5 +18,6 @@
      <a href ="nascimento.carolina202@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/carolina-nascimento-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
     
+      ![Snake animation](https://github.com/Carolina-Silva/Carolina-Silva/blob/output/github-contribution-grid-snake.svg)
   
   </div>
