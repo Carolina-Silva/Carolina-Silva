@@ -1,1 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2022-04-04T11:55:03.267Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" version="17.1.3" etag="XA02tCftPcZCoNWJqpnE" type="github"><diagram id="0TQ7GkABs3SECUj2SqhH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-04T12:07:03.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="pLAFR0lqAXxpdDHLGrDR" version="17.1.3" type="github">
+  <diagram id="0TQ7GkABs3SECUj2SqhH" name="Page-1">
+    <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rEWO-KpwXwKGe88P7Xtz-1" value="Cadastro de novos livros" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="340" y="150" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="rEWO-KpwXwKGe88P7Xtz-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="190" as="sourcePoint" />
+            <mxPoint x="340" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rEWO-KpwXwKGe88P7Xtz-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="230" as="sourcePoint" />
+            <mxPoint x="670" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rEWO-KpwXwKGe88P7Xtz-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.188;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="rEWO-KpwXwKGe88P7Xtz-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="20" as="sourcePoint" />
+            <mxPoint x="440" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rEWO-KpwXwKGe88P7Xtz-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="420" as="sourcePoint" />
+            <mxPoint x="420" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rEWO-KpwXwKGe88P7Xtz-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="420" as="sourcePoint" />
+            <mxPoint x="470" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rEWO-KpwXwKGe88P7Xtz-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="420" as="sourcePoint" />
+            <mxPoint x="370" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rEWO-KpwXwKGe88P7Xtz-9" value="Livros cadastrados" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rEWO-KpwXwKGe88P7Xtz-11" value="Novos livros" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rEWO-KpwXwKGe88P7Xtz-12" value="dep. administrativo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="300" y="360" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rEWO-KpwXwKGe88P7Xtz-13" value="bibliotecária" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="354" y="360" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rEWO-KpwXwKGe88P7Xtz-14" value="atendente" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="400" y="350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rEWO-KpwXwKGe88P7Xtz-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="240" as="sourcePoint" />
+            <mxPoint x="340" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rEWO-KpwXwKGe88P7Xtz-17" value="Nota fiscal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="215" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rEWO-KpwXwKGe88P7Xtz-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.188;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="19.04" as="sourcePoint" />
+            <mxPoint x="420.0799999999999" y="150.00000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rEWO-KpwXwKGe88P7Xtz-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.188;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="474" y="19.04" as="sourcePoint" />
+            <mxPoint x="474.0799999999999" y="150.00000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rEWO-KpwXwKGe88P7Xtz-20" value="Legislação" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="300" y="70" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rEWO-KpwXwKGe88P7Xtz-21" value="normas da instituição" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="350" y="60" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rEWO-KpwXwKGe88P7Xtz-22" value="AACR2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="400" y="70" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
