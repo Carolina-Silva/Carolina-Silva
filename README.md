@@ -1,7 +1,7 @@
 ## Olá, muito prazer sou a Carolina Silva 
 
 - 🔭 **Foco:** Estou em busca de uma oportunidade como dev Junior
-- 🌱**Estudos:** Atualmente estou estudando Desenvolvimento Web/Java
+- 🌱**Estudos:** Atualmente estou estudando Desenvolvimento de Software Multiplataforma
 - 🤔 **Fatos sobre mim:** Curiosa e Criativa 
 - ⚡️ **Hobbies:** Ler e aprender coisas novas.
 
@@ -25,6 +25,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
  
  
  
