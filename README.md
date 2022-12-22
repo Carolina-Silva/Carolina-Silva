@@ -1,28 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&color=36d921&width=350&height=50&lines=Olá!+Me+chamo+Carolina+Silva+...;&#x1F50B;)](https://git.io/typing-svg)
+# 💫 Sobre mim:
+Olá! Me chamo Carolina, tenho 20 anos.<br>Atualmente sou aluna na Fatec Diadema - Luigi Papaiz no curso de Desenvolvimento de Software Multiplataforma(terceiro semestre), ex-aluna do Instituto PROA.<br>Busco aprender e me desenvolver na área de tecnologia, para ingressar no mercado de trabalho em meu primeiro emprego na área de tecnologia.
 
-- 🔭 **Foco:** Estou em busca de uma oportunidade como dev Junior
-- 🌱**Estudos:** Atualmente estou estudando Desenvolvimento de Software Multiplataforma
-- 🤔 **Fatos sobre mim:** Curiosa e Criativa 
-- ⚡️ **Hobbies:** Ler e aprender coisas novas.
 
- ## Redes Sociais
-  <div>
-     <a href="https://www.instagram.com/ns.carol/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-     <a href ="nascimento.carolina202@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-     <a href="https://www.linkedin.com/in/carolina-nascimento-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  </div> 
-  <br>
-<div>
+## 🌐 Redes sociais:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Carolina Silva) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ns.carol) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Carolina Nascimento) 
 
-  <a href="https://github.com/Carolina-Silva">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolina-Silva&layout=compact&langs_count=7&theme=dark"/>
-    </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-</div>
+# 💻 Tecnologias Estudadas:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊Estatísticas do GitHub:
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Carolina-Silva&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Carolina-Silva&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Carolina-Silva&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&color=36d921&width=350&height=50&lines=Hello+World+!;&#128435;)](https://git.io/typing-svg)
+---
+[![](https://visitcount.itsvg.in/api?id=Carolina-Silva&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
