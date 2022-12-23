@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Olá! Me chamo Carolina, tenho 20 anos.<br>Atualmente sou aluna na Fatec Diadema - Luigi Papaiz no curso de Desenvolvimento de Software Multiplataforma(terceiro semestre), ex-aluna do Instituto PROA.<br>Busco aprender e me desenvolver na área de tecnologia, para ingressar no mercado de trabalho em meu primeiro emprego na área de tecnologia.
+Olá! Me chamo Carolina, tenho 20 anos.Atualmente sou aluna na Fatec Diadema - Luigi Papaiz no curso de Desenvolvimento de Software Multiplataforma(terceiro semestre), ex-aluna do Instituto PROA.Busco aprender e me desenvolver na área de tecnologia, para ingressar no mercado de trabalho em meu primeiro emprego na área de tecnologia.
 
 
 ## 🌐 Redes sociais:
