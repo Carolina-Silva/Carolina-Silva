@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-E aí! Sou a Carolina, 21 anos, estudante na Fatec Luigi Papaiz, cursando Desenvolvimento de Software Multiplataforma (5º semestre), já fui aluna do Instituto PROA, onde fiz o curso de Proprofissão e desenvolvimento em Java.
+Olá! Sou a Carolina, 21 anos, estudante na Fatec Luigi Papaiz, cursando Desenvolvimento de Software Multiplataforma (5º semestre), já fui aluna do Instituto PROA, onde fiz o curso de Proprofissão e desenvolvimento em Java.
 
 ## 🚀 O Que Curto Fazer:
 Estou sempre tentando me manter  mergulhada em tecnologia, e no momento tenho estudado especialmente React com Typescript, mas gosto de ficar de olho nas novidades e testar coisas novas. Algumas das tecnologias que já estudei:
@@ -8,11 +8,12 @@ Estou sempre tentando me manter  mergulhada em tecnologia, e no momento tenho es
 
 
 ## 🌐 Vamos Trocar Ideia:
-Se quiser trocar uma ideia ou falar sobre projetos pode me encontrar nas seguintes redes
+Se quiser conversar comigo sobre projetos e tecnologia pode me encontrar nas seguintes redes
 <div>
+       <a href="https://www.linkedin.com/in/carolina-silva01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+      <a href ="nascimento.carolina202@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      <a href="https://www.instagram.com/ns.carol/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-     <a href ="nascimento.carolina202@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-     <a href="https://www.linkedin.com/in/carolina-silva01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+     
   </div> 
 
 ## 🌱 O Aprendizado é Contínuo:
