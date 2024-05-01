@@ -1,7 +1,6 @@
-<div style="display: flex; align-items: center;">
-  <img height="50px" src="./img/icon.gif"/>
+
   <h2 style="border-bottom: none;">Sobre mim:</h2>
-</div>
+
 <p>
 Olá! Sou Carolina, estudante de Desenvolvimento de Software Multiplataforma no 5º semestre da Fatec Luigi Papaiz.
 </p>
@@ -17,21 +16,14 @@ Olá! Sou Carolina, estudante de Desenvolvimento de Software Multiplataforma no 
     <img height="25px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
     </div>
     </div>
-    <img height="200px" src="./img/x.gif"/>
 </div>
 
-<div style="display: flex; align-items: center;">
-  <img height="50px" src="./img/phone.gif"/>
-  <h2 style="border-bottom: none;">Quer entrar em contato?</h2>
-</div>
+<h2 style="border-bottom: none;">Quer entrar em contato?</h2>
 Se quiser conversar comigo sobre projetos e tecnologia, pode me encontrar nas seguintes redes:
+<br/><br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Carolina%20Nascimento-66acf2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolina-silva01/)](https://www.linkedin.com/in/carolina-silva01/)
 [![Gmail Badge](https://img.shields.io/badge/-nascimento.carolina202@gmail.com-66acf2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nascimento.carolina202@gmail.com)](mailto:nascimento.carolina202@gmail.com)
-
-<div style="display: flex; justify-content: center;">
-  <img height="200px" src="./img/theEnd.gif" style=""/>
-</div>
 
 ---
 
