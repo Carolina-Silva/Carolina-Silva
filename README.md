@@ -1,34 +1,43 @@
-
-  <h2 style="border-bottom: none;">Sobre mim:</h2>
-
-<p>
-Olá! Sou Carolina, estudante de Desenvolvimento de Software Multiplataforma no 5º semestre da Fatec Luigi Papaiz.
-</p>
+<img align='right' src='./img/octocat.png' style="width: 450px;">
 
 
-<h2 style="border-bottom: none;">O Que Curto Fazer:</h2>
-<div style="display: flex;">
-    <div style="text-align: justify; margin-right: 20px;">
-    Estou sempre me atualizando em tecnologia, e no momento tenho estudado especialmente React com Typescript, mas gosto de ficar de olho nas novidades e testar coisas novas. Algumas das tecnologias que já estudei:
-    <div>
-    <img height="25px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img height="25px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img height="25px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    </div>
-    </div>
+<!-- [![](https://visitcount.itsvg.in/api?id=Carolina-Silva&icon=0&color=1)](https://visitcount.itsvg.in) -->
+
+
+ <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&color=36d921&width=350&height=50&lines=Hello+World+!;&#128435;)](https://git.io/typing-svg)  -->
+
+
+<div align="left">
+
+  <H2 style='font'> 💻 Carolina Silva</H2> 
+
+  🎓 **Desenvolvimento de Software Multiplataforma** - Fatec Luigi Papaiz.  
+
+  ### Tecnologias e Habilidades  
+- **Linguagens e Frameworks**:  Java, Spring Boot, TypeScript, React, Python.  
+- **Machine Learning**: TensorFlow, Keras, redes neurais convolucionais (U-Net).  
+- **Banco de Dados**: MongoDB, MySQL.  
+- **Ferramentas**: Git, Figma, Google Colab.  
+
+### Projetos Recentes  
+- **[Análise de Sentimentos em Feedbacks de Áudio ](https://github.com/Carolina-Silva/sentiment_analysis_PLN)**:Transcrever áudios e realizar análises de sentimentos.  
+- **[Bookshifter](https://github.com/Carolina-Silva/bookshifter)**: Aplicativo para doação e recomendação de livros.
+
+###  Atualmente  
+- Explorando redes neurais convolucionais e segmentação de imagens científicas.  
+-  
+<center>
+
+### 📫 **Entre em contato**  
+  <a href="https://www.instagram.com/carol._.ns" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black&color=f8efd4" target="_blank">
+  </a>
+  <a href="mailto:nascimento.carolina202@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black&color=f8efd4" target="_blank">
+  </a>
+  <a href="(https://www.linkedin.com/in/carolina-silva01/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black&color=f8efd4" target="_blank">
+  </a>
+ 
+</center>
 </div>
-
-<h2 style="border-bottom: none;">Quer entrar em contato?</h2>
-Se quiser conversar comigo sobre projetos e tecnologia, pode me encontrar nas seguintes redes:
-<br/><br/>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Carolina%20Nascimento-66acf2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolina-silva01/)](https://www.linkedin.com/in/carolina-silva01/)
-[![Gmail Badge](https://img.shields.io/badge/-nascimento.carolina202@gmail.com-66acf2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nascimento.carolina202@gmail.com)](mailto:nascimento.carolina202@gmail.com)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Carolina-Silva&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Orgulhosamente criado com GPRM (https://gprm.itsvg.in) -->
-
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&color=36d921&width=350&height=50&lines=Hello+World+!;&#128435;)](https://git.io/typing-svg) -->
