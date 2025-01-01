@@ -1,4 +1,4 @@
-<img align='right' src='./img/octocat.png' style="width: 400px;  float: right; margin-top: 20px;">
+<img align='right' src='./img/octocat.png' style="width: 450px; margin-top: 20px;">
 
 
 <!-- [![](https://visitcount.itsvg.in/api?id=Carolina-Silva&icon=0&color=1)](https://visitcount.itsvg.in) -->
@@ -9,7 +9,7 @@
 
 <div align="left">
 
-  <H2 style='font'> 💻 Carolina Silva</H2> 
+  <H2 style="text-decoration: none;"> 💻 Carolina Silva</H2> 
 
   🎓 **Desenvolvimento de Software Multiplataforma** - Fatec Luigi Papaiz.  
 
