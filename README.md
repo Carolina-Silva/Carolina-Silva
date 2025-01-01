@@ -9,7 +9,7 @@
 
 <div align="left">
 
-  <H2 style="text-decoration: none;"> 💻 Carolina Silva</H2> 
+  ## 💻 Carolina Silva</H2> 
 
   🎓 **Desenvolvimento de Software Multiplataforma** - Fatec Luigi Papaiz.  
 
