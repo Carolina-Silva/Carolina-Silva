@@ -1,4 +1,4 @@
-<img align='right' src='./img/octocat.png' style="width: 450px; margin-top: 20px;">
+<img align='right' src='./img/octocat.png' style="width: 400px; margin-top: 20px;">
 
 
 <!-- [![](https://visitcount.itsvg.in/api?id=Carolina-Silva&icon=0&color=1)](https://visitcount.itsvg.in) -->
