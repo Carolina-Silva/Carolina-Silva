@@ -25,7 +25,7 @@
 
 ###  Atualmente  
 - Explorando redes neurais convolucionais e segmentação de imagens científicas.  
--  
+-  [DVC](https://dvc.org/) para vercionamento de dados
 <center>
 
 ### 📫 **Entre em contato**  
