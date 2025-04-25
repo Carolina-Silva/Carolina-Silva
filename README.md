@@ -11,21 +11,30 @@
 
   ### 💻 Carolina Silva</H2> 
 
-  🎓 **Desenvolvimento de Software Multiplataforma** - Fatec Luigi Papaiz.  
+  🎓 **Desenvolvimento de Software Multiplataforma** - Fatec Luigi Papaiz.
+  🔬 Pesquisadora de Iniciação Científica no Instituto do Coração (InCor) – foco em visão computacional aplicada à saúde.
 
   ### Tecnologias e Habilidades  
-- **Linguagens e Frameworks**:  Java, Spring Boot, TypeScript, React, Python.  
-- **Machine Learning**: TensorFlow, Keras, redes neurais convolucionais (U-Net).  
-- **Banco de Dados**: MongoDB, MySQL.  
-- **Ferramentas**: Git, Figma, Google Colab.  
+- **Linguagens e Frameworks**: Java, Spring Boot, TypeScript, React, Python  
+- **Machine Learning & Ciência de Dados**: TensorFlow, Keras, U-Net, Pandas, Scikit-learn, DVC  
+- **Banco de Dados**: MongoDB, MySQL  
+- **Ferramentas**: Git, Figma, Google Colab, Jupyter Notebooks  
 
 ### Projetos Recentes  
 - **[Análise de Sentimentos em Feedbacks de Áudio ](https://github.com/Carolina-Silva/sentiment_analysis_PLN)**:Transcrever áudios e realizar análises de sentimentos.  
 - **[Bookshifter](https://github.com/Carolina-Silva/bookshifter)**: Aplicativo para doação e recomendação de livros.
 
 ###  Atualmente  
-- Explorando redes neurais convolucionais e segmentação de imagens científicas.  
--  [DVC](https://dvc.org/) para vercionamento de dados
+- Estudando redes neurais convolucionais e segmentação de imagens (U-Net).  
+- Usando [DVC](https://dvc.org/) para versionamento de datasets científicos.  
+- Me preparando para migrar profissionalmente para **Ciência de Dados** com foco em saúde e educação.
+
+### ☁️ Interesses Atuais  
+
+- Aplicações práticas de IA em saúde  
+- Visualização interativa de dados  
+- Educação e democratização de conhecimento com tecnologia
+
 <center>
 
 ### 📫 **Entre em contato**  
