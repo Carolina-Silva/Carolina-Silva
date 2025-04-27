@@ -11,7 +11,7 @@
 
   ### 💻 Carolina Silva</H2> 
 
-  🎓 **Desenvolvimento de Software Multiplataforma** - Fatec Luigi Papaiz.
+  🎓 **Desenvolvimento de Software Multiplataforma** - Fatec Luigi Papaiz. <br/>
   🔬 Pesquisadora de Iniciação Científica no Instituto do Coração (InCor) – foco em visão computacional aplicada à saúde.
 
   ### Tecnologias e Habilidades  
@@ -29,11 +29,6 @@
 - Usando [DVC](https://dvc.org/) para versionamento de datasets científicos.  
 - Me preparando para migrar profissionalmente para **Ciência de Dados** com foco em saúde e educação.
 
-### ☁️ Interesses Atuais  
-
-- Aplicações práticas de IA em saúde  
-- Visualização interativa de dados  
-- Educação e democratização de conhecimento com tecnologia
 
 <center>
 
