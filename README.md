@@ -1,34 +1,39 @@
-<img align='right' src='./img/octocat.png' style="width: 400px; margin-top: 20px;">
-
+<img align="right" src="./img/octocat.png" style="width: 400px; margin-top: 20px;">
 
 <!-- [![](https://visitcount.itsvg.in/api?id=Carolina-Silva&icon=0&color=1)](https://visitcount.itsvg.in) -->
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&color=36d921&width=350&height=50&lines=Hello+World+!;&#128435;)](https://git.io/typing-svg) -->
 
+## 💻 Carolina Silva
 
- <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&color=36d921&width=350&height=50&lines=Hello+World+!;&#128435;)](https://git.io/typing-svg)  -->
+🎓 **MBA em Data Science e Analytics** – USP/ESALQ (em andamento)  
+🔬 Pesquisadora de Iniciação Científica no Instituto do Coração (InCor) – foco em visão computacional aplicada à saúde  
 
+---
 
-<div align="left">
+### 🛠 Tecnologias e Habilidades
 
-  ### 💻 Carolina Silva</H2> 
-
-  🎓 **Desenvolvimento de Software Multiplataforma** - Fatec Luigi Papaiz. <br/>
-  🔬 Pesquisadora de Iniciação Científica no Instituto do Coração (InCor) – foco em visão computacional aplicada à saúde.
-
-  ### Tecnologias e Habilidades  
 - **Linguagens e Frameworks**: Java, Spring Boot, TypeScript, React, Python  
 - **Machine Learning & Ciência de Dados**: TensorFlow, Keras, U-Net, Pandas, Scikit-learn, DVC  
 - **Banco de Dados**: MongoDB, MySQL  
 - **Ferramentas**: Git, Figma, Google Colab, Jupyter Notebooks  
 
-### Projetos Recentes  
-- **[Análise de Sentimentos em Feedbacks de Áudio ](https://github.com/Carolina-Silva/sentiment_analysis_PLN)**:Transcrever áudios e realizar análises de sentimentos.  
+---
+
+### 📁 Projetos Recentes
+
+- **[Análise de Sentimentos em Feedbacks de Áudio](https://github.com/Carolina-Silva/sentiment_analysis_PLN)**: Transcrever áudios e realizar análises de sentimentos.  
 - **[Bookshifter](https://github.com/Carolina-Silva/bookshifter)**: Aplicativo para doação e recomendação de livros.
 
-###  Atualmente  
-- Estudando redes neurais convolucionais e segmentação de imagens (U-Net).  
-- Usando [DVC](https://dvc.org/) para versionamento de datasets científicos.  
-- Me preparando para migrar profissionalmente para **Ciência de Dados** com foco em saúde e educação.
+---
 
+### 🔄 Atualmente
+
+- Estudando redes neurais convolucionais e segmentação de imagens (U-Net)  
+- Cursando **MBA em Ciência de Dados e Analytics** pela **USP/ESALQ**  
+- Usando [DVC](https://dvc.org/) para versionamento de datasets científicos  
+- Me preparando para migrar profissionalmente para **Ciência de Dados**, com foco em saúde e educação  
+
+---
 
 <center>
 
