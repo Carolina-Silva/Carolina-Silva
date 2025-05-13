@@ -28,8 +28,7 @@
 
 ### 🔄 Atualmente
 
-- Estudando redes neurais convolucionais e segmentação de imagens (U-Net)  
-- Cursando **MBA em Ciência de Dados e Analytics** pela **USP/ESALQ**  
+- Estudando redes neurais convolucionais e segmentação de imagens (U-Net)   
 - Usando [DVC](https://dvc.org/) para versionamento de datasets científicos  
 - Me preparando para migrar profissionalmente para **Ciência de Dados**, com foco em saúde e educação  
 
