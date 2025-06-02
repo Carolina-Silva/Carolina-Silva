@@ -37,9 +37,6 @@
 <center>
 
 ### 📫 **Entre em contato**  
-  <a href="https://www.instagram.com/carol._.ns" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black&color=f8efd4">
-  </a>
   <a href="mailto:nascimento.carolina202@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black&color=f8efd4">
   </a>
