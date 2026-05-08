@@ -3,19 +3,19 @@
 <!-- [![](https://visitcount.itsvg.in/api?id=Carolina-Silva&icon=0&color=1)](https://visitcount.itsvg.in) -->
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&color=36d921&width=350&height=50&lines=Hello+World+!;&#128435;)](https://git.io/typing-svg) -->
 
-## 💻 Carolina Silva
+💻 Carolina Silva
 
 🎓 **MBA em Data Science e Analytics** – USP/ESALQ (em andamento)  
 🔬 Pesquisadora de Iniciação Científica no Instituto do Coração (InCor) – foco em visão computacional aplicada à saúde  
 
 ---
 
-### 🛠 Tecnologias e Habilidades
+### 🛠 Tecnologias & Ferramentas
 
-- **Linguagens e Frameworks**: Java, Spring Boot, TypeScript, React, Python  
-- **Machine Learning & Ciência de Dados**: TensorFlow, Keras, U-Net, Pandas, Scikit-learn, DVC  
+- **Desenvolvimento**: Java • Spring Boot, TypeScript • React,  Python  
+- **Dados & Machine Learning**: Pandas • Scikit-learn, TensorFlow • Keras, Redes neurais convolucionais (CNNs), Segmentação de imagens com U-Net, DVC para versionamento de datasets,
 - **Banco de Dados**: MongoDB, MySQL  
-- **Ferramentas**: Git, Figma, Google Colab, Jupyter Notebooks  
+- **Ferramentas**: Git, Figma, Google Colab, Jupyter Notebooks, Databricks  
 
 ---
 
@@ -28,9 +28,9 @@
 
 ### 🔄 Atualmente
 
-- Estudando redes neurais convolucionais e segmentação de imagens (U-Net)   
-- Usando [DVC](https://dvc.org/) para versionamento de datasets científicos  
-- Me preparando para migrar profissionalmente para **Ciência de Dados**, com foco em saúde e educação  
+- Explorando engenharia de dados e Databricks
+- Trabalhando com processamento e segmentação de imagens científicas
+- Construindo projetos voltados para saúde, educação e IA aplicada
 
 ---
 
