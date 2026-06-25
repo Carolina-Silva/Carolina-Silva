@@ -1,49 +1,49 @@
 <img align="right" src="./img/octocat.png" style="width: 400px; margin-top: 20px;">
 
-<!-- [![](https://visitcount.itsvg.in/api?id=Carolina-Silva&icon=0&color=1)](https://visitcount.itsvg.in) -->
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&color=36d921&width=350&height=50&lines=Hello+World+!;&#128435;)](https://git.io/typing-svg) -->
-
 💻 Carolina Silva
-
-🎓 **MBA em Data Science e Analytics** – USP/ESALQ (em andamento)  
-🔬 Pesquisadora de Iniciação Científica no Instituto do Coração (InCor) – foco em visão computacional aplicada à saúde  
+🎓 **MBA em Data Science e Analytics** – USP/ESALQ (em andamento)
+🔬 **Cientista de Dados Júnior** no Instituto do Coração (InCor/HCFMUSP) – análise de dados biomédicos e aprendizado de máquina aplicado à saúde
 
 ---
 
 ### 🛠 Tecnologias & Ferramentas
 
-- **Desenvolvimento**: Java • Spring Boot, TypeScript • React,  Python  
-- **Dados & Machine Learning**: Pandas • Scikit-learn, TensorFlow • Keras, Redes neurais convolucionais (CNNs), Segmentação de imagens com U-Net, DVC para versionamento de datasets,
-- **Banco de Dados**: MongoDB, MySQL  
-- **Ferramentas**: Git, Figma, Google Colab, Jupyter Notebooks, Databricks  
+- **Linguagens**: Python, R (básico), TypeScript
+- **Engenharia de Dados**: SQL, ETL, pipelines de dados, REST APIs
+- **Machine Learning & Análise**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, OpenCV
+- **Banco de Dados**: MongoDB, MySQL
+- **Ferramentas**: Git, Jupyter, VS Code, Google Colab, Databricks, Linux
 
 ---
 
-### 📁 Projetos Recentes
+### 📁 Projetos em Destaque
 
-- **[Análise de Sentimentos em Feedbacks de Áudio](https://github.com/Carolina-Silva/sentiment_analysis_PLN)**: Transcrever áudios e realizar análises de sentimentos.  
+- **[TCC MBA – Predição de Mortalidade Hospitalar por IAM](https://github.com/Carolina-Silva)**: Modelagem preditiva de desfechos de infarto agudo do miocárdio usando dados públicos do SUS (DATASUS). Aplicação de machine learning e análise de sobrevivência em Python para investigar como fatores demográficos e de infraestrutura hospitalar influenciam a mortalidade.
+- **[Análise de Imagens Médicas (InCor)](https://github.com/Carolina-Silva)**: Pipeline de segmentação e extração de características em imagens de fibras colágenas (SHG) com OpenCV e Python.
+- **[Análise de Sentimentos em Áudio](https://github.com/Carolina-Silva/sentiment_analysis_PLN)**: Transcrição de áudios e análise de sentimentos com PLN.
 - **[Bookshifter](https://github.com/Carolina-Silva/bookshifter)**: Aplicativo para doação e recomendação de livros.
 
 ---
 
 ### 🔄 Atualmente
 
+- Desenvolvendo pipelines de ETL para processamento de dados biomédicos no InCor
+- Construindo o TCC do MBA com dados do DATASUS sobre mortalidade por IAM
 - Explorando engenharia de dados e Databricks
-- Trabalhando com processamento e segmentação de imagens científicas
-- Construindo projetos voltados para saúde, educação e IA aplicada
 
 ---
 
 <center>
 
-### 📫 **Entre em contato**  
+### 📫 **Entre em contato**
+
   <a href="mailto:nascimento.carolina202@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black&color=f8efd4">
   </a>
   <a href="https://www.linkedin.com/in/carolina-nsilva/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black&color=f8efd4">
   </a>
- 
+
 </center>
 
 ---
@@ -56,4 +56,3 @@
   <img alt="pacman contribution graph"
     src="https://raw.githubusercontent.com/Carolina-Silva/Carolina-Silva/output/pacman-contribution-graph.svg">
 </picture>
-</div>
