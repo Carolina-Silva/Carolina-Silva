@@ -1,6 +1,7 @@
 <img align="right" src="./img/octocat.png" style="width: 400px; margin-top: 20px;">
 
 💻 Carolina Silva
+
 🎓 **MBA em Data Science e Analytics** – USP/ESALQ (em andamento)
 🔬 **Cientista de Dados Júnior** no Instituto do Coração (InCor/HCFMUSP) – análise de dados biomédicos e aprendizado de máquina aplicado à saúde
 
